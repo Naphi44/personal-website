@@ -69,7 +69,6 @@ body {
 ## Yaml
 ```yaml
 ---
-one: Mark McGwire
-two: Sammy Sosa
-three: Ken Griffey
+one: Naphi44
+
 ```
